@@ -12,8 +12,21 @@ android {
         versionName "1.0.0"
     }
 
+    signingConfigs {
+        release {
+            storeFile file("super-seat-map.keystore")
+            storePassword "superseatmap"
+            keyAlias "superseatmap"
+            keyPassword "superseatmap"
+        }
+    }
+
     buildTypes {
         release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+        }
+        debug {
             minifyEnabled false
         }
     }
