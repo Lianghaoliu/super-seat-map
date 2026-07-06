@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/renderer/
+release/
+.vite/
+*.log
+.DS_Store
+Thumbs.db
