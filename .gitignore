@@ -9,3 +9,5 @@ Thumbs.db
 超级座位图.apk
 android/.gradle/
 android/app/build/
+android/app/super-seat-map.keystore
+android/local.properties
