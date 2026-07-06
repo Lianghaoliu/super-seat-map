@@ -9,7 +9,3 @@ Thumbs.db
 超级座位图.apk
 android/.gradle/
 android/app/build/
-android/gradle/wrapper/gradle-wrapper.jar
-android/gradlew
-android/gradlew.bat
-android/local.properties
