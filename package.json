@@ -1,6 +1,6 @@
 {
   "name": "super-seat-map",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "超级座位图 - 班级座位管理工具",
   "author": "Lianghaoliu",
   "main": "dist/main/main.js",
